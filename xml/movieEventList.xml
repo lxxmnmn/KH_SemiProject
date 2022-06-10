@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movieEventList>
+	<eventInfo>
+		<eventNo>1</eventNo>
+		<eventTitle>[카시오페아] 관람 인증 이벤트</eventTitle>
+		<eventDate>2022.05.31 ~ 2022.06.10</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>2</eventNo>
+		<eventTitle>[카시오페아] 스페셜GV</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.11</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>3</eventNo>
+		<eventTitle>[실종] 정성일 평론가 라이브러리톡</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.11</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>4</eventNo>
+		<eventTitle>[베르네 부인의 장미정원] 라이브러리톡</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.11</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>5</eventNo>
+		<eventTitle>[윤시내가 사라졌다] 개봉주 현장 증정 이벤트</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.14</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>6</eventNo>
+		<eventTitle>[극장판 포켓몬스터] 2주차 현장 증정 이벤트</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.30</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>7</eventNo>
+		<eventTitle>[이공삼칠] 싸이퍼의 강력 추천 영화!</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.06.14</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>8</eventNo>
+		<eventTitle>공연예술창작산실 신작의 발견 기획상영전</eventTitle>
+		<eventDate>2022.05.20 ~ 2022.06.28</eventDate>
+	</eventInfo>
+	<eventInfo>
+		<eventNo>9</eventNo>
+		<eventTitle>All-Day 영스엑 런칭 이벤트</eventTitle>
+		<eventDate>2022.06.03 ~ 2022.07.22</eventDate>
+	</eventInfo>
+</movieEventList>

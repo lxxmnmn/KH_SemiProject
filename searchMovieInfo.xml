@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movieInfoResult>
+	<movieInfo>
+		<movieCd>20206061</movieCd>
+		<movieNm>쥬라기 월드: 도미니언</movieNm>
+		<movieNmEn>Jurassic World: Dominion</movieNmEn>
+		<movieNmOg/>
+		<showTm>146</showTm>
+		<prdtYear>2022</prdtYear>
+		<openDt>20220601</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>미국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>액션</genreNm>
+		</genre>
+		<genre>
+		<genreNm>어드벤처</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>콜린 트레보로우</peopleNm>
+		<peopleNmEn>Colin Trevorrow</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>크리스 프랫</peopleNm>
+		<peopleNmEn>Chris Pratt</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>브라이스 달라스 하워드</peopleNm>
+		<peopleNmEn>Bryce Dallas Howard</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>드완다 와이즈</peopleNm>
+		<peopleNmEn>DeWanda Wise</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>로라 던</peopleNm>
+		<peopleNmEn>Laura Dern</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>제프 골드블럼</peopleNm>
+		<peopleNmEn>Jeff Goldblum</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>샘 닐</peopleNm>
+		<peopleNmEn>Sam Neill</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00872 </auditNo>
+		<watchGradeNm>12세이상관람가</watchGradeNm>
+		</audit>
+		<audit>
+		<auditNo>2022-MF00946</auditNo>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20204548</movieCd>
+		<movieNm>범죄도시 2</movieNm>
+		<movieNmEn>The Roundup</movieNmEn>
+		<movieNmOg/>
+		<showTm>105</showTm>
+		<prdtYear>2022</prdtYear>
+		<openDt>20220518</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>한국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>범죄</genreNm>
+		</genre>
+		<genre>
+		<genreNm>액션</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>이상용</peopleNm>
+		<peopleNmEn>Lee Sang-yong</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>마동석</peopleNm>
+		<peopleNmEn>Don LEE</peopleNmEn>
+		<cast>마석도</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>손석구</peopleNm>
+		<peopleNmEn>SON Sukku</peopleNmEn>
+		<cast>강해상</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>최귀화</peopleNm>
+		<peopleNmEn>CHOI Gwi-hwa</peopleNmEn>
+		<cast>전일만</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>박지환</peopleNm>
+		<peopleNmEn>PARK Ji-hwan</peopleNmEn>
+		<cast>장이수</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>허동원</peopleNm>
+		<peopleNmEn>HEO Dong-won</peopleNmEn>
+		<cast>오동균</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>송하준</peopleNm>
+		<peopleNmEn/>
+		<cast>강홍석</cast>
+		<castEn/>
+		</actor>
+		</actors>
+		<showTypes>
+		<showType>
+		<showTypeGroupNm>2D</showTypeGroupNm>
+		<showTypeNm>디지털</showTypeNm>
+		</showType>
+		<showType>
+		<showTypeGroupNm>2D</showTypeGroupNm>
+		<showTypeNm>디지털 영문자막</showTypeNm>
+		</showType>
+		<showType>
+		<showTypeGroupNm>2D</showTypeGroupNm>
+		<showTypeNm>디지털 가치봄</showTypeNm>
+		</showType>
+		<showType>
+		<showTypeGroupNm>IMAX</showTypeGroupNm>
+		<showTypeNm>IMAX</showTypeNm>
+		</showType>
+		</showTypes>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00317</auditNo>
+		<watchGradeNm>15세이상관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20135304</movieCd>
+		<movieNm>극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미</movieNm>
+		<movieNmEn/>
+		<movieNmOg>ダイヤモンド&amp;パ-ル ギラティナと氷空の花束シェイミ</movieNmOg>
+		<showTm>96</showTm>
+		<prdtYear>2008</prdtYear>
+		<openDt>20220601</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>일본</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>애니메이션</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>유야마 쿠니히코</peopleNm>
+		<peopleNmEn>Kunihiko Yuyama</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>마츠모토 리카</peopleNm>
+		<peopleNmEn>Rica Matsumoto</peopleNmEn>
+		<cast>사토시 목소리</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>오오타니 이쿠에</peopleNm>
+		<peopleNmEn>Ikue Ootani</peopleNmEn>
+		<cast>피카츄 목소리</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>이선호</peopleNm>
+		<peopleNmEn/>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>김영선</peopleNm>
+		<peopleNmEn>KIM Young-sun</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00959</auditNo>
+		<watchGradeNm>전체관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20224634</movieCd>
+		<movieNm>그대가 조국</movieNm>
+		<movieNmEn>The Red Herring</movieNmEn>
+		<movieNmOg/>
+		<showTm>124</showTm>
+		<prdtYear>2022</prdtYear>
+		<openDt>20220525</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>한국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>다큐멘터리</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>이승준</peopleNm>
+		<peopleNmEn>YI Seung-jun</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>조국</peopleNm>
+		<peopleNmEn/>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF01084</auditNo>
+		<watchGradeNm>12세이상관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20212855</movieCd>
+		<movieNm>닥터 스트레인지: 대혼돈의 멀티버스</movieNm>
+		<movieNmEn>Doctor Strange in the Multiverse of Madness</movieNmEn>
+		<movieNmOg/>
+		<showTm>126</showTm>
+		<prdtYear>2022</prdtYear>
+		<openDt>20220504</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>미국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>액션</genreNm>
+		</genre>
+		<genre>
+		<genreNm>어드벤처</genreNm>
+		</genre>
+		<genre>
+		<genreNm>판타지</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>샘 레이미</peopleNm>
+		<peopleNmEn>Sam Raimi</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>베네딕트 컴버배치</peopleNm>
+		<peopleNmEn>Benedict Cumberbatch</peopleNmEn>
+		<cast>닥터 스트레인지</cast>
+		<castEn>Dr. Stephen Strange</castEn>
+		</actor>
+		<actor>
+		<peopleNm>엘리자베스 올슨</peopleNm>
+		<peopleNmEn>Elizabeth Olsen</peopleNmEn>
+		<cast>완다 막시모프/스칼렛 위치</cast>
+		<castEn>Wanda Maximoff, Scarlet Witch</castEn>
+		</actor>
+		<actor>
+		<peopleNm>베네딕트 웡</peopleNm>
+		<peopleNmEn>Benedict Wong</peopleNmEn>
+		<cast>웡</cast>
+		<castEn>Wong</castEn>
+		</actor>
+		<actor>
+		<peopleNm>레이첼 맥아담스</peopleNm>
+		<peopleNmEn>Rachel McAdams </peopleNmEn>
+		<cast>크리스틴 팔머</cast>
+		<castEn>Dr. Christine Palmer</castEn>
+		</actor>
+		<actor>
+		<peopleNm>치웨텔 에지오포</peopleNm>
+		<peopleNmEn>Chiwetel Ejiofor</peopleNmEn>
+		<cast>모르도 남작</cast>
+		<castEn>Karl Mordo</castEn>
+		</actor>
+		<actor>
+		<peopleNm>소치틀 고메즈</peopleNm>
+		<peopleNmEn>Xochitl Gomez</peopleNmEn>
+		<cast>아메리카 차베즈</cast>
+		<castEn>America Chavez</castEn>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00920 </auditNo>
+		<watchGradeNm>12세이상관람가</watchGradeNm>
+		</audit>
+		<audit>
+		<auditNo>2022-MF00981 </auditNo>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20210590</movieCd>
+		<movieNm>카시오페아</movieNm>
+		<movieNmEn/>
+		<movieNmOg/>
+		<showTm>101</showTm>
+		<prdtYear>2021</prdtYear>
+		<openDt>20220601</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>한국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>드라마</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>신연식</peopleNm>
+		<peopleNmEn>SHIN Yeon-shick</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>안성기</peopleNm>
+		<peopleNmEn>AHN Sung-ki</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>서현진</peopleNm>
+		<peopleNmEn>SEO Hyeon-jin</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>주예림</peopleNm>
+		<peopleNmEn>JOO Ye-rim</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF01040 </auditNo>
+		<watchGradeNm>12세이상관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20224468</movieCd>
+		<movieNm>애프터 양</movieNm>
+		<movieNmEn>After Yang</movieNmEn>
+		<movieNmOg/>
+		<showTm>95</showTm>
+		<prdtYear>2021</prdtYear>
+		<openDt>20220601</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>미국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>드라마</genreNm>
+		</genre>
+		<genre>
+		<genreNm>SF</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>코고나다</peopleNm>
+		<peopleNmEn>Kogonada</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>콜린 파렐</peopleNm>
+		<peopleNmEn>Colin Farrell</peopleNmEn>
+		<cast/>
+		<castEn>Jake</castEn>
+		</actor>
+		</actors>
+		<showTypes>
+		<showType>
+		<showTypeGroupNm>2D</showTypeGroupNm>
+		<showTypeNm>디지털</showTypeNm>
+		</showType>
+		</showTypes>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00911 </auditNo>
+		<watchGradeNm>전체관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20224891</movieCd>
+		<movieNm>특수요원 빼꼼</movieNm>
+		<movieNmEn>Agent Backkom : Kings Bear</movieNmEn>
+		<movieNmOg>Agent Backkom - Kings Bear</movieNmOg>
+		<showTm>92</showTm>
+		<prdtYear>2021</prdtYear>
+		<openDt>20220601</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>중국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>애니메이션</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>장양</peopleNm>
+		<peopleNmEn>Yang Zhang</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>박시윤</peopleNm>
+		<peopleNmEn/>
+		<cast>디키</cast>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>장병관</peopleNm>
+		<peopleNmEn/>
+		<cast>빅투스</cast>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF01052</auditNo>
+		<watchGradeNm>전체관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20143441</movieCd>
+		<movieNm>몬스터 싱어: 매직 인 파리</movieNm>
+		<movieNmEn>A Monster in Paris</movieNmEn>
+		<movieNmOg>Un monstre a Paris</movieNmOg>
+		<showTm>89</showTm>
+		<prdtYear>2011</prdtYear>
+		<openDt>20220526</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>프랑스</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>애니메이션</genreNm>
+		</genre>
+		<genre>
+		<genreNm>뮤지컬</genreNm>
+		</genre>
+		<genre>
+		<genreNm>어드벤처</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>비보 베르즈롱</peopleNm>
+		<peopleNmEn>Bibo Bergeron</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>바네사 파라디</peopleNm>
+		<peopleNmEn>Vanessa Paradis</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>아담 골드버그</peopleNm>
+		<peopleNmEn>Adam Goldberg</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>제이 해링턴</peopleNm>
+		<peopleNmEn>Jay Harrington</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>숀 레넌</peopleNm>
+		<peopleNmEn>Sean Lennon</peopleNmEn>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2014-MF00272</auditNo>
+		<watchGradeNm>전체관람가</watchGradeNm>
+		</audit>
+		<audit>
+		<auditNo>2022-MF00803</auditNo>
+		</audit>
+		</audits>
+	</movieInfo>
+	<movieInfo>
+		<movieCd>20211568</movieCd>
+		<movieNm>아치의 노래, 정태춘</movieNm>
+		<movieNmEn>Song of the Poet</movieNmEn>
+		<movieNmOg/>
+		<showTm>113</showTm>
+		<prdtYear>2021</prdtYear>
+		<openDt>20220518</openDt>
+		<prdtStatNm>개봉</prdtStatNm>
+		<typeNm>장편</typeNm>
+		<nations>
+		<nation>
+		<nationNm>한국</nationNm>
+		</nation>
+		</nations>
+		<genres>
+		<genre>
+		<genreNm>다큐멘터리</genreNm>
+		</genre>
+		</genres>
+		<directors>
+		<director>
+		<peopleNm>고영재</peopleNm>
+		<peopleNmEn>GOH Young-jae</peopleNmEn>
+		</director>
+		</directors>
+		<actors>
+		<actor>
+		<peopleNm>정태춘</peopleNm>
+		<peopleNmEn/>
+		<cast/>
+		<castEn/>
+		</actor>
+		<actor>
+		<peopleNm>박은옥</peopleNm>
+		<peopleNmEn/>
+		<cast/>
+		<castEn/>
+		</actor>
+		</actors>
+		<audits>
+		<audit>
+		<auditNo>2022-MF00762 </auditNo>
+		<watchGradeNm>전체관람가</watchGradeNm>
+		</audit>
+		</audits>
+	</movieInfo>
+<source>영화진흥위원회</source>
+</movieInfoResult>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+		<link rel="shortcut icon" href="../image/icon.png" />
+		<link rel="apple-touch-icon" href="../image/icon.png" />
+		<title>KH시네마</title>
+		<link type="text/css" rel="stylesheet" href="../css/main.css">
+		<style type="text/css">
+			article#movie_info {
+				width: 1200px;
+				margin: 10px auto;
+			}
+			#movie_info > div {float: left;}
+			div.info_desc {
+				margin-left: 60px;
+				padding-top: 20px;
+				font-size: 0.9em;
+			}
+			.info_img {width: 350px;}
+			div.info_title {
+				border-bottom: 1px solid #CCCCCC;
+				padding-bottom: 10px;
+				margin-bottom: 40px;
+			}
+			.info_name {
+				font-weight: 500;
+				font-size: 1.5em;
+				margin-bottom: 0px;
+			}
+			.info_name_en {
+				font-size: 0.8em;
+				color: #595959;
+			}
+			a#reserveBtn {
+				display: inline-block;
+				color: white;
+				width: 100px;
+				height: 35px;
+				padding-top: 10px;
+				margin-top: 30px;
+				border-radius: 5px;
+				font-size: 1em;
+				text-align: center;
+				/*vertical-align: middle;*/
+				background-color: #745AFF;
+			}
+		</style>
+		<script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+		<script type="text/javascript" src="../js/main.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				function template(movieCd, movieNm, movieNmEn, director, actor, genre, watchGradeNm, showTm, nationNm, openDt) {
+					$("#movie_info").find(".info_img").attr("src", "../image/" + movieCd + ".jpg");
+					$("#movie_info").find(".info_name").append(movieNm);
+					$("#movie_info").find(".info_name_en").append(movieNmEn);
+					$("#movie_info").find(".info_director").append(director);
+					$("#movie_info").find(".info_actor").append(actor);
+					$("#movie_info").find(".info_genre").append(genre);
+					$("#movie_info").find(".info_basic").append(watchGradeNm + " / " + showTm + " / " + nationNm);
+					$("#movie_info").find(".info_date").append(openDt);
+				}
+				
+				$.ajax({
+					url : "../ajax/searchMovieInfo.xml",
+					dataType : "xml",
+					type : "get",
+					cache: false,
+					timeout: 30000,
+					success: function(xml) {
+						$(xml).find("movieInfo").each(function() {
+							let movieCd = $(this).find("movieCd").text();
+							if (movieCd == "20206061") {
+								let movieNm = $(this).find("movieNm").text();
+								let movieNmEn = $(this).find("movieNmEn").text();
+								let director = "";
+								$(this).find("director").each(function() {
+									director += $(this).find("peopleNm").text() + " ";
+								});
+								let actor = "";
+								$(this).find("actor").each(function() {
+									actor += $(this).find("peopleNm").text() + " ";
+								});
+								let genre = "";
+								$(this).find("genre").each(function() {
+									genre += $(this).find("genreNm").text() + " ";
+								});
+								let watchGradeNm = $(this).find("watchGradeNm").text();
+								let showTm = $(this).find("showTm").text() + "분";
+								let nationNm = $(this).find("nationNm").text();
+								let openDt = $(this).find("openDt").text();
+								
+								template(movieCd, movieNm, movieNmEn, director, actor, genre, watchGradeNm, showTm, nationNm, openDt);
+							}
+						});
+					},
+					error: function(xhr, textStatus, errorThrown) {
+						console.log(textStatus + " (HTTP-" + xhr.status + " / " + errorThrown + ")");
+					}
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<section>
+			<article id="movie_info">
+				<div>
+					<img class="info_img"/>
+				</div>
+				<div class="info_desc">
+					<div class="info_title">
+						<p class="info_name"></p>
+						<p class="info_name_en"></p>
+					</div>
+					<p class="info_director">감독 : </p>
+					<p class="info_actor">배우 : </p>
+					<p class="info_genre">장르 : </p>
+					<p class="info_basic">기본 : </p>
+					<p class="info_date">개봉 : </p>
+					<a class="reservation" id="reserveBtn" href="#">예매하기</a>
+				</div>
+			</article>
+		</section>
+		<footer>
+			<p>
+				(06234)서울특별시 강남구 테헤란로14길 6 남도빌딩 2F, 3F, 4F, 5F, 6F<br/>
+				대표자: 양진선 ｜ 사업자등록번호: 851-87-00622 ｜ 서울 강남 제2014-01호<br/>
+				호스팅사업자: KH정보교육원 ｜ 개인정보보호 책임자: 이민정 ｜ 대표이메일: lmj3314@gmail.com<br/>
+				© KH CINEMA. All Rights Reserved
+			</p>
+		</footer>
+	</body>
+</html>
